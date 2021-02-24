@@ -1,0 +1,9 @@
+C:\Users\Seymur\Desktop\BASE-1\removing vowels\removing vowels\bin\Debug\removing vowels.exe.config
+C:\Users\Seymur\Desktop\BASE-1\removing vowels\removing vowels\obj\Debug\removing vowels.csprojResolveAssemblyReference.cache
+C:\Users\Seymur\Desktop\BASE-1\removing vowels\removing vowels\obj\Debug\removing_vowels.Form1.resources
+C:\Users\Seymur\Desktop\BASE-1\removing vowels\removing vowels\obj\Debug\removing_vowels.Properties.Resources.resources
+C:\Users\Seymur\Desktop\BASE-1\removing vowels\removing vowels\obj\Debug\removing vowels.csproj.GenerateResource.Cache
+C:\Users\Seymur\Desktop\BASE-1\removing vowels\removing vowels\bin\Debug\removing vowels.exe
+C:\Users\Seymur\Desktop\BASE-1\removing vowels\removing vowels\bin\Debug\removing vowels.pdb
+C:\Users\Seymur\Desktop\BASE-1\removing vowels\removing vowels\obj\Debug\removing vowels.exe
+C:\Users\Seymur\Desktop\BASE-1\removing vowels\removing vowels\obj\Debug\removing vowels.pdb
